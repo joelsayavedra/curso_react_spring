@@ -1,5 +1,5 @@
 {
-  "name": "intro-js",
+  "name": "proyecto_base_react",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "intro-js": "file:",
+    "proyecto_base_react": "file:",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
